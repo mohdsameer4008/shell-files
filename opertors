@@ -1,0 +1,36 @@
+#!/bin/bash
+
+
+echo "arthimatic operators"
+echo "---------------------"
+
+a=10
+c=0
+b=10
+
+echo "THE value of a =$a"
+echo "THE value of b =$b"
+echo "THE value of c =$c"
+
+c=$((a+b))
+
+echo "the addition of a & b is :$c "
+
+c=$((a-b))
+
+echo "the subtrastion of a & b is :$c "
+
+c=$((a*b))
+
+echo "the multiption of a & b is :$c "
+
+c=$((a/b))
+
+echo "the division of a & b is :$c "
+
+
+
+
+
+
+
